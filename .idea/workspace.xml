@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="025743e7-8e32-4c7e-832c-22746842ef61" name="Default Changelist" comment="" />
+    <list default="true" id="025743e7-8e32-4c7e-832c-22746842ef61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Fondo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Formulario.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Formulario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondoForm.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,28 +30,59 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZLjN0m03gnRlxVHOp1Q5J2u9nJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/arknightsreactjs/Arknights_reactjs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ast\app1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ast\app1\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +100,13 @@
       <workItem from="1588445418990" duration="1180000" />
       <workItem from="1588446881325" duration="4023000" />
       <workItem from="1588451683201" duration="5294000" />
-      <workItem from="1588458469833" duration="447000" />
+      <workItem from="1588458469833" duration="1271000" />
+      <workItem from="1591836638506" duration="859000" />
+      <workItem from="1591839141423" duration="966000" />
+      <workItem from="1591840110954" duration="16000" />
+      <workItem from="1591950350956" duration="9653000" />
+      <workItem from="1591995983265" duration="11201000" />
+      <workItem from="1592247154711" duration="7099000" />
     </task>
     <servers />
   </component>
@@ -59,18 +114,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1588459073448">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591957615623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588459073448" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591957615623" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1592254143303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592254143303" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1588456933678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1588456933678" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588458645376">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1592247227651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588458645376" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592247227651" />
+    <state x="438" y="8" width="944" height="506" key="dock-window-1" timestamp="1592257946164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="8" width="944" height="506" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1592257946164" />
     <state x="497" y="54" key="svn.repositoryBrowser" timestamp="1588458813014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

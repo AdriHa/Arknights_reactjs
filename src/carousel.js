@@ -52,7 +52,12 @@ class carousel extends Component{
                         })}
                     </Slider>
                 </div>
-
+                <div className="ArknightsTitle">Arknights</div>
+                <div className="ArknightsText">
+                    <p>Arknights is a mobile game where you have to defend your base with your operators</p>
+                    <p>It's a tower defense game</p>
+                    <p>Download it now in the playstore</p>
+                </div>
             </div>
         );
     }

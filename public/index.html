@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -21,6 +22,20 @@
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    import backgroundImg from './images/fondo3.jpg';
+    <style>
+
+      body{
+
+        background-image: url(./images/fondo3.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+    </style>
+
+
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URLsdf of the `public` folder during the build.
@@ -34,9 +49,14 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="home"></div>
     <div id="Navbar"></div>
     <div id="carousel"></div>
     <div id="root"></div>
+    <div id="gallery"></div>
+    <div id="Images"></div>
+    <div id="form"></div>
+    <div id="Formulario"></div>
 
   </body>
 </html>

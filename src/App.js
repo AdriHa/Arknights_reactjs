@@ -2,11 +2,13 @@ import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
 import './carousel.css';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import * as ReactBootStrap from "react-bootstrap";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+
 
 const photos = [
     {
@@ -47,15 +49,23 @@ render() {
                     return(
                         <div>
                             <img width="100%" src={photo.url}/>
+
                         </div>
                     )
                 })}
             </Slider>
+
+
             </div>
 
         </div>
     );
 }
 }
+
+
+
+
+
 
 export default App;

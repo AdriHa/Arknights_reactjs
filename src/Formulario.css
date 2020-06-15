@@ -1,0 +1,28 @@
+
+
+.textForm{
+    color: #ffffff;
+    font-color: #ffffff;
+    margin-top: 20%;
+}
+
+.textFormSend{
+    color:#123456;
+    font-color: #ffffff;
+    font-size: 200%;
+
+}
+
+
+ .bg-img {
+
+     background-image: url("fondoForm.jpg");
+
+     min-height: 520px;
+
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+ }
+
